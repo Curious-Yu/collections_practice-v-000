@@ -1,4 +1,4 @@
 def array_asc(array)
   array.sort
-  puts array
+  return array
 end
